@@ -1,4 +1,4 @@
-## Hi there 👋 I am [ShengYun (Anthony) Peng](https://shengyun-peng.github.io/), a CS PhD student [@Gatech](https://www.cc.gatech.edu/) 
+## Hi there 👋 I am ShengYun (Anthony) Peng, a CS PhD student @Georgia Tech 
 
 ## Research interest:
 - Trustworthy machine learning
