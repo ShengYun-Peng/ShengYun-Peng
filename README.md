@@ -2,9 +2,9 @@
 
 ## Research interest:
 - Trustworthy machine learning
-- Robustness
-- Vision-language models
-- Multi-modality
+- Robustness & safety 
+- Vision-language models & multi-modality
+- Tabular data
 
 ## Papers
 - Self-Supervised Pre-Training for Table Structure Recognition Transformer, AAAI'24 Workshop
