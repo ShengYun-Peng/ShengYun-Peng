@@ -7,6 +7,7 @@
 - Multi-modality
 
 ## Papers
+- Self-Supervised Pre-Training for Table Structure Recognition Transformer, AAAI'24 Workshop
 - [High-Performance Transformers for Table Structure Recognition Need Early Convolutions](https://github.com/poloclub/tsr-convstem), NeurIPS'23 Workshop Oral
 - [Robust Principles: Architectural Design Principles for Adversarially Robust CNNs](https://github.com/poloclub/robust-principles), BMVC'23 Best Poster Award
 - [SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning](https://github.com/nilakshdas/SkeleVision), ECCV'22 Workshop
