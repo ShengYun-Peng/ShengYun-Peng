@@ -3,7 +3,7 @@
 ## Research interest:
 My research strengthens the generalization and safety of the generative AI, spanning vision models, LLMs, and VLMs. As steps towards this goal, I work on:
 - **Generalizable multimodal representation learning**: foundation models for table recognition (UniTable, Table Transformer, Self-supervised Pretraining), RGB-infrared fusion object tracking (DsiamMFT, SiamFT), structural health monitoring (system identification).
-- **Safe and robust machine learning models**: LLM loss landscape (coming soon!), robust CNN design principles (#1 on RobustBench CIFAR-10), multi-task person tracking (SkeleVision), and defending LLM attacks (LLM Self Defense)
+- **Safe and robust machine learning models**: LLM landscape (LLM Safety Basin), robust CNN design principles (#1 on RobustBench CIFAR-10), multi-task person tracking (SkeleVision), and defending LLM attacks (LLM Self Defense)
 
 ## Papers
 - Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models, NeurIPS'24 - [[paper](https://arxiv.org/abs/2405.17374)] [[code](https://github.com/poloclub/llm-landscape)]
