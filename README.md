@@ -1,11 +1,14 @@
 ## Hi there 👋 I am ShengYun (Anthony) Peng, a CS PhD student @Georgia Tech 
 
 ## Research interest:
-My research strengthens the generalization and safety of the generative AI, spanning vision models, LLMs, and VLMs. As steps towards this goal, I work on:
-- **Generalizable multimodal representation learning**: foundation models for table recognition (UniTable, Table Transformer, Self-supervised Pretraining), RGB-infrared fusion object tracking (DsiamMFT, SiamFT), structural health monitoring (system identification).
-- **Safe and robust machine learning models**: LLM landscape (LLM Safety Basin), robust CNN design principles (#1 on RobustBench CIFAR-10), multi-task person tracking (SkeleVision), and defending LLM attacks (LLM Self Defense)
+My research advances safer, more efficient, and robust AI systems at scale — spanning training, inference, and deployment — by tackling core challenges in safety alignment, inference efficiency, and scalable system design across language, vision, and multimodal models:
+- **Advancing Safety Alignment Throughout Model Training**: LLM safety basin, the first framework explaining how minimal unsafe data can collapse alignment during fine-tuning (NeurIPS'24); robust CNN architectures that achieved SOTA on RobustBench (BMVC'23 & Best Poster Award); dynamic safety shaping framework for LLM finetuning risk mitigation (In Submission).
+- **Optimizing Inference for Scalability and Throughput**: video VLM scaling study for optimal inference (ACL'25); token reduction method that doubles LLM inference throughput (In Submission).
+- **Bridging Research and Deployment for Real-World Impact**: UniTable, a modular table parsing system with over 470+ stars (workshops at NeurIPS'23 (oral), AAAI'24 (oral), & NeurIPS'24); distributed systems tutorials on Medium (33K+ readers).
 
 ## Papers
+- Shape it Up! Restoring LLM Safety during Finetuning, in submission
+- Inference Compute-Optimal Video Vision Language Models, ACL'25 - Coming soon!
 - Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models, NeurIPS'24 - [[paper](https://arxiv.org/abs/2405.17374)] [[code](https://github.com/poloclub/llm-landscape)]
 - UniTable: Towards a Unified Framework for Table Recognition via Self-Supervised Pretraining, NeurIPS'24 Workshop - [[paper](https://arxiv.org/abs/2403.04822)] [[code](https://github.com/poloclub/unitable)]
 - Self-Supervised Pre-Training for Table Structure Recognition Transformer, AAAI'24 Workshop (Oral) - [[paper](https://arxiv.org/abs/2402.15578)] [[code](https://github.com/poloclub/unitable)]
