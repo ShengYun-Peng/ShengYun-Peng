@@ -7,7 +7,8 @@ My research advances safer, more efficient, and robust AI systems at scale — s
 - **Bridging Research and Deployment for Real-World Impact**: UniTable, a modular table parsing system with over 470+ stars (workshops at NeurIPS'23 (oral), AAAI'24 (oral), & NeurIPS'24); distributed systems tutorials on Medium (33K+ readers).
 
 ## Papers
-- Shape it Up! Restoring LLM Safety during Finetuning, in submission - [[paper](https://arxiv.org/abs/2505.17196)]
+- Large Reasoning Models Learn Better Alignment from Flawed Thinking, in submission
+- Shape it Up! Restoring LLM Safety during Finetuning, NeurIPS'25 - [[paper](https://arxiv.org/abs/2505.17196)]
 - Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving LLM Safety, EMNLP'25 - [[paper](https://arxiv.org/abs/2506.05451)]
 - Compcap: Improving multimodal large language models with composite captions, ICCV'25 - [[paper](https://arxiv.org/abs/2412.05243)]
 - Inference Compute-Optimal Video Vision Language Models, ACL'25 - [[paper](https://arxiv.org/abs/2505.18855)] [[code](https://github.com/tt6746690/vvlm_inference_scaling)]
